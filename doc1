@@ -22,8 +22,18 @@
 1. Scope Management : Identify Why and What
 2. Schedule Management : What are project activities and Time for each activities 
 3. Cost Management : Resource Rate + Project Activities Duration = Total Cost
-4. Quality Management : 
+4. Quality Management : Explicit and Implicit quality expectations 
+5. Resource Management : Type and Quantity of resource (Scope and schedule will give idea for it)
+6. Communication Management 
+7. Risk Management 
+8. Procurement Management 
+9. Stakeholder Engagement 
+10. Integration Management 
 
+* Full team will be involve during WBS Preparation 
+* The procedure in which we break down the project in a smaller manageable component is called Decomposition. 
+* 100% Rule means when we break down a component and prepare sub component. All sub component will prepare 100% of Parent component. There will be no Gap
+* Lowest level of WBS : Those who does not have sub component anymore, calls Work Package (WP)    
 
 1. Scope Management : First understanding, what is the objective of this project, Whats our target (WHY), 
 What should we do there (WHAT) ? Which outputs / Deliverables will help us to reach on our goal ?  
@@ -32,7 +42,7 @@ What should we do there (WHAT) ? Which outputs / Deliverables will help us to re
    - What Activities shall we need to complete and
    - Which Sequences should we complete ? 
 In that scope, then we'll identify which part will take what times. 
-If any changes happen, we'll need to update the scedule also. 
+If any changes happen, we'll need to update the schedule also. 
 
 
 3. Now, will have to check what kind of 
