@@ -35,6 +35,7 @@
 * 100% Rule means when we break down a component and prepare sub component. All sub component will prepare 100% of Parent component. There will be no Gap
 * Lowest level of WBS : Those who does not have sub component anymore, calls Work Package (WP)    
 
+
 1. Scope Management : First understanding, what is the objective of this project, Whats our target (WHY), 
 What should we do there (WHAT) ? Which outputs / Deliverables will help us to reach on our goal ?  
 
